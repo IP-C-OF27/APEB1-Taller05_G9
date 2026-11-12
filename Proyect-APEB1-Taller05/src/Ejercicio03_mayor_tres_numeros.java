@@ -2,7 +2,8 @@
 import java.util.Scanner;
 
 /**
- * Ejercicio 01: "Texto del enunciado del ejercicio/problema...."
+ * Ejercicio 01: "Mayor de tres números: Dados tres números distintos, 
+ * determinar cuál es el mayor."
  * @author Alejandro, Ariel
  * @version 1.0
  */
@@ -24,5 +25,8 @@ public class Ejercicio03_mayor_tres_numeros {
 
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ * run:
+Ingrese Nro1= ,Nro2= ,Nro3= 3 2 1
+3 =Es el mayor
+BUILD SUCCESSFUL (total time: 9 seconds)
  */
