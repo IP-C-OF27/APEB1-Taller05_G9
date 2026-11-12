@@ -5,7 +5,6 @@ import java.util.Scanner;
  * @author Ariel, Alejandro
  * @version 1.0
  */
-
 public class Ejercicio02_Dia_de_la_semana {
     public static void main(String[] args) {
         Scanner tcl = new Scanner(System.in);
@@ -41,9 +40,9 @@ public class Ejercicio02_Dia_de_la_semana {
     }
 }
 /***
- * EVIDENCIA DEL RUN:
- * run:
-Pon tu edad: 15
-No legible para votas
-BUILD SUCCESSFUL (total time: 3 seconds)
+run-single:
+Deme nro. dia (1-7: )
+2
+El nrm: 2 Corresponde al: Martes
+BUILD SUCCESSFUL (total time: 4 seconds)
  */
