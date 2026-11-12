@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 /**
- * Ejercicio 01: "Mayor de tres números: Dados tres números distintos, 
+ * Ejercicio 03: "Mayor de tres números: Dados tres números distintos, 
  * determinar cuál es el mayor."
  * @author Alejandro, Ariel
  * @version 1.0

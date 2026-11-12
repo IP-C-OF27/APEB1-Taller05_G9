@@ -20,3 +20,10 @@ public class Ejercicio05_Año_Bisiesto {
         }
     }
 }
+/***
+ * EVIDENCIA DEL RUN:
+ * run:
+Ingresar anio: 2026
+No es bisiesto
+BUILD SUCCESSFUL (total time: 4 seconds)
+ */
