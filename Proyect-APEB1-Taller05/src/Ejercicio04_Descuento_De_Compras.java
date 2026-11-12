@@ -6,7 +6,7 @@
  * @version 1.0
  */
 import java.util.Scanner;
-public class EJERCICIO04 {
+public class Ejercicio04_Descuento_De_Compras {
     public static void main(String[] args) {
         Scanner tcl = new Scanner(System.in);
         System.out.print("Ingresar el precio original: ");
