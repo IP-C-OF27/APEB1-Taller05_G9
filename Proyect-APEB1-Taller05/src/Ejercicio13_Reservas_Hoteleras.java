@@ -1,6 +1,4 @@
-
 import java.util.Scanner;
-
 /**
  * Problema 13: "Sistema de reservas hoteleras: En una hostería de la ciudad de
  * Loja se hace un descuento del 10% si el cliente se hospeda más de 5 días, 
@@ -15,7 +13,7 @@ public class Ejercicio13_Reservas_Hoteleras {
     public static void main(String[] args) {
         Scanner tcl=new Scanner(System.in);
         int dias;
-        double prec_dia,subt,desc=0.0,tot;
+        double prec_dia,subt,desc=0,tot;
         System.out.print("Ingrese el numero de dias de hospedaje: ");
         dias=tcl.nextInt();
         System.out.print("Ingrese el precio diario de la habitacion: ");
